@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "this is prg2";
+    int a = 10, b = 20;
+    cout << "a + b : " << a + b;
     return 0;
 }
